@@ -1,5 +1,4 @@
 # Weakly-Supervised Audio-Visual Segmentation
-[[Project Page]](https://wsavs.github.io/)
 
 Official implementation for "Weakly-Supervised Audio-Visual Segmentation".
 
